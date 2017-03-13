@@ -45,8 +45,8 @@
                 <td>Opleiding</td>
                 <td>
                     <asp:DropDownList ID="cbOpleiding" runat="server">
-                        <asp:ListItem Value="3">VWO</asp:ListItem>
-                        <asp:ListItem Value="2">HAVO</asp:ListItem>
+                        <asp:ListItem Value="VWO">VWO</asp:ListItem>
+                        <asp:ListItem Value="HAVO">HAVO</asp:ListItem>
                     </asp:DropDownList>
                 </td>
             </tr>
