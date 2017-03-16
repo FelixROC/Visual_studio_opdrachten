@@ -5,7 +5,7 @@ De opdrachten die in de reader staan van Visual Studio
 <ul>
 <li>Opdracht 1 Klaar ✓</li>
 <li>Opdracht 2 Klaar ✓</li>
-<li>Opdracht 3 nog niet klaar X</li>
+<li>Opdracht 3 nog niet klaar ✓</li>
 <li>Opdracht 4 nog niet klaar X</li>
 <li>Opdracht 5 nog niet klaar X</li>
 <li>Opdracht 6 nog niet klaar X</li>
